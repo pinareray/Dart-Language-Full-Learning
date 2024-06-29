@@ -3,7 +3,7 @@ void main(List<String> args) {
   
 //keep customer's name
 //find out customer's money
-//Say hello to the customer and tell him his money.
+//Say hello to the cu stomer and tell him his money.
 //Then add five dollars to his money.Replace this added money with ten.
 
 int userMoney = 25;

@@ -37,5 +37,16 @@ void main(){
     }
   }
 
+  print('-----');
+  List<dynamic> users = [1, 'a', true];
+
+ for(var item in users){
+    print(item);
+ } //Bu kullanımı pek önermem
+
+  List<String> userNames = ['Ali','mehmet', 'ayse'];
+
+  userNames.contains('pinar'); //Liste de pinar var mı diye kontrol ettik.
+
 
 }
